@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "账单",
+  "usingComponents": {
+    "load-more": "/components/common/load-more",
+    "no-thing": "/components/common/no-thing",
+    "bill-data": "/components/bill/bill-data",
+    "bill-list-item": "/components/bill/bill-list-item"
+  }
+}

@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['billdetail',['$event']]]]]}}" class="list1" bindtap="__e"><view class="cardList"><view class="card">{{"名称："+item.category.name}}</view><view class="card">{{"金额："+item.money+"元"}}</view><view class="card">{{"记账时间："+item.time}}</view></view></view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "关于财务小秘书",
+  "usingComponents": {
+    "home-list-item": "/components/home/home-list-item"
+  }
+}

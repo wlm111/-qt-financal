@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "本年账单",
+  "usingComponents": {
+    "swiper-tab-head": "/components/index/swiper-tab-head",
+    "load-more": "/components/common/load-more",
+    "no-thing": "/components/common/no-thing",
+    "billgory-list": "/components/bill/billgory-list",
+    "bill-data": "/components/bill/bill-data"
+  }
+}

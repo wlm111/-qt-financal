@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分类提醒",
+  "usingComponents": {
+    "swiper-tab-head": "/components/index/swiper-tab-head",
+    "load-more": "/components/common/load-more",
+    "no-thing": "/components/common/no-thing",
+    "remind-list-item": "/components/remind/remind-list-item"
+  }
+}

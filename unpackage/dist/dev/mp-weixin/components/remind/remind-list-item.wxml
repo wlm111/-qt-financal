@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['reminddetail',['$event']]]]]}}" class="list1" bindtap="__e"><view class="cardList"><view class="card">{{"提醒名称："+item.remind_name}}</view><view class="card">{{"提醒时间："+item.remind_time}}</view></view></view>

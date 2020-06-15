@@ -1,0 +1,15 @@
+
+.home-data.data-v-3b38ef63{ 
+	z-index: 1;
+	background: #F8F8F8;
+	padding: 20rpx 40rpx;
+	box-shadow:4rpx 4rpx 10rpx #CCCCCC;
+}
+.home-data>view.data-v-3b38ef63{
+	color: #333333;
+}
+.home-data>view>view.data-v-3b38ef63{
+	font-size: 32rpx;
+	color: #333333;
+}
+

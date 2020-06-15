@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"add{ background: #4CD964; position: fixed; bottom: 0; left: 0; right: 0; height: ",[0,88],"; border-top:",[0,1]," solid #DDDDDD }\n.",[1],"add wx-view{ height: 100%; }\n.",[1],"user-record-data{ background: #FFFFFF; width: 100%; height: ",[0,40],"; border-top-left-radius: ",[0,20],"; border-top-right-radius: ",[0,20],"; margin-top: ",[0,-15],"; }\n",],undefined,{path:"./pages/bill/billgl.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/bill/billgl.wxml') } }));

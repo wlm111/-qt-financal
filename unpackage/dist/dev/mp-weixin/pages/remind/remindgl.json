@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "提醒管理",
+  "usingComponents": {
+    "load-more": "/components/common/load-more",
+    "no-thing": "/components/common/no-thing",
+    "remind-data": "/components/remind/remind-data",
+    "remind-list-item": "/components/remind/remind-list-item"
+  }
+}

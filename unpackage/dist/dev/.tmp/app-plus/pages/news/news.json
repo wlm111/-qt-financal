@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "动态",
+  "bounce": "none",
+  "titleNView": false,
+  "usingComponents": {
+    "news-nav-bar": "/components/news/news-nav-bar",
+    "common-list": "/components/common/common-list",
+    "load-more": "/components/common/load-more",
+    "topic-nav": "/components/news/topic-nav",
+    "post-nav": "/components/news/post-nav",
+    "topic-list": "/components/news/topic-list",
+    "no-thing": "/components/common/no-thing"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "提醒",
+  "usingComponents": {
+    "calendar": "/components/Li-Calendar/Li-Calendar"
+  }
+}

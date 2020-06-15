@@ -1,0 +1,1 @@
+<view class="{{['tag-sex icon iconfont data-v-d9212c30',sex==0?'icon-nan':'icon-nv']}}">{{''+age+''}}</view>

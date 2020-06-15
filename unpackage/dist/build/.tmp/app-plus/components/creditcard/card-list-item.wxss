@@ -1,0 +1,90 @@
+/* 公共按钮 */
+.user-set-btn{
+	width: 100%;
+	margin: 20rpx 0;
+	background: #3ff595!important;
+	border: 0!important;
+	color: #333333!important;
+}
+.user-set-btn-disable{
+	background: #3ff595!important;
+	border: 1rpx solid #3ff595!important;
+	color: #171606!important;
+}
+.body{
+	padding: 0 20rpx!important;
+}
+.common-input{
+	font-size: 30rpx;
+	border-bottom: 1rpx solid #F4F4F4;
+}
+.btn-plusempty{
+	width: 110rpx;
+	height: 110rpx;
+	background: #3ff595;
+	position: fixed;
+	bottom: 50rpx;
+	right: 20rpx;
+	border-radius: 100%;
+	overflow: hidden;
+	text-align: center;
+	line-height: 110rpx;
+}
+.bottom-btn-hover{
+	background: #3ff595!important;
+}
+.btn-text{
+	font-weight: bold;
+	font-size: 36rpx;
+	color: #F5F5F5;
+}
+.addinput-foot{
+	background: #4CD964;
+	position: fixed;bottom: 0;left: 0;right: 0;height: 88rpx;border-top:1rpx solid #DDDDDD
+}
+.addinput-foot view{
+	height: 100%;
+}
+.addinput-foot-btn{
+	background: #F4F4F4;
+}
+.list1 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin: 0 40rpx;
+  padding-top: 40rpx;
+  height: 200rpx;
+}
+.list1 .cardList {
+	  -webkit-box-flex: 1;
+	  -webkit-flex: 1;
+	          flex: 1;
+	  display: -webkit-box;
+	  display: -webkit-flex;
+	  display: flex;
+	  -webkit-box-orient: vertical;
+	  -webkit-box-direction: normal;
+	  -webkit-flex-direction: column;
+	          flex-direction: column;
+	  -webkit-box-pack: center;
+	  -webkit-justify-content: center;
+	          justify-content: center;
+	  padding: 0 40rpx;
+	  height: 200rpx;
+	  overflow: hidden;
+	  background: #EEEEEE;
+	  color: hsla(0,0%,100%,.3);
+	  font-size: 12px;
+	  box-shadow:4rpx 4rpx 10rpx #CCCCCC;
+}
+.list1 .cardList .card {
+	  text-overflow: ellipsis;
+	  overflow: hidden;
+	  white-space: nowrap;
+	  line-height: 52rpx;
+	  color:#000;
+	  text-align: center;
+}
+

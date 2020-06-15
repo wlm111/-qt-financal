@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "图表",
+  "bounce": "none",
+  "titleNView": false,
+  "usingComponents": {
+    "swiper-tab-head": "/components/index/swiper-tab-head",
+    "no-thing": "/components/common/no-thing",
+    "line-chart": "/components/stan-ucharts/LineChart",
+    "chart-nav-bar": "/components/charts/chart-nav-bar"
+  }
+}

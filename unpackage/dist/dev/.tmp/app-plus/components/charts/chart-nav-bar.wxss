@@ -1,0 +1,23 @@
+
+.nav-tab-bar.data-v-09c6568a{
+	width: 100%;
+	margin-left: -20rpx;
+	position: relative;
+}
+.nav-tab-bar>view.data-v-09c6568a{
+	font-size: 28rpx;
+	padding: 0 15rpx;
+	font-weight: bold;
+	color: #969696;
+}
+.active.data-v-09c6568a{
+	color: #333333!important;
+}
+.nav-tab-bar-line.data-v-09c6568a{
+	border-bottom: 5rpx solid #3ff595;
+	border-top: 5rpx solid #3ff595;
+	width: 70rpx;
+	position: absolute;
+	bottom: 12rpx;
+}
+
