@@ -12,8 +12,4 @@ uni-app+thinkPHP+mysql
 7.对提醒内容的查看  
 8.财经资讯（热门帖子、热门话题、发布帖子等内容）  
 9.财务信息管理功能  
-# 效果演示：
-1.登录效果
- ![image](https://github.com/wlm111/jietu/blob/master/手机登录.JPG)
-2.修改用户信息
-![image](https://github.com/wlm111/jietu/blob/master/%E4%BF%AE%E6%94%B9%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF_20200515232717.gif)
+
