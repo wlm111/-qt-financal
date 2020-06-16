@@ -12,5 +12,5 @@ uni-app+thinkPHP+mysql
 7.对提醒内容的查看  
 8.财经资讯（热门帖子、热门话题、发布帖子等内容）  
 9.财务信息管理功能  
- ![image](图片的网络地址)
+ ![image](https://github.com/wlm111/-qt-financal/blob/master/static/bgimg/1.jpg)
 https://github.com/wlm111/-qt-financal/blob/master/static/bgimg/1.jpg
