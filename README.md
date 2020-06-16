@@ -13,4 +13,5 @@ uni-app+thinkPHP+mysql
 8.财经资讯（热门帖子、热门话题、发布帖子等内容）  
 9.财务信息管理功能  
 # 效果演示：
-
+1.登录效果
+ ![image](https://github.com/wlm111/jietu/blob/master/%E7%99%BB%E5%BD%95_20200515175352.gif)
