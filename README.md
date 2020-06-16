@@ -15,3 +15,5 @@ uni-app+thinkPHP+mysql
 # 效果演示：
 1.登录效果
  ![image](https://github.com/wlm111/jietu/blob/master/%E7%99%BB%E5%BD%95_20200515175352.gif)
+2.修改用户信息
+![image](https://github.com/wlm111/jietu/blob/master/%E4%BF%AE%E6%94%B9%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF_20200515232717.gif)
